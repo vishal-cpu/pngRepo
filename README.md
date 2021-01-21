@@ -1,2 +1,1 @@
-![alt text](images/Screenshot (94).png)
-
+![alternativetext] (images/'Screenshot(94).png')
